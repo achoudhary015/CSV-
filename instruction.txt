@@ -1,0 +1,6 @@
+## Hatchways Software Assessment
+
+ npm install 
+ node courses.csv students.csv tests.csv marks.csv output.json
+ you will get the output file 
+
